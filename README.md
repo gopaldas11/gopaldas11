@@ -1,6 +1,6 @@
 # Hi, I'm Gopal Das
 
-Aspiring **Business Analyst** (primary) and **Data Analyst** (secondary) with a background in **Business Administration (Marketing)** and skills in **Python, SQL, Power BI, and Excel**.
+Aspiring **Business Analyst** (primary) and **Data Analyst** (secondary) with a background in **Business Administration (Marketing)** and skills in **Python, SQL, Power BI, Digital Marketing, Statistical Tools, and Excel**.
 
 ---
 
